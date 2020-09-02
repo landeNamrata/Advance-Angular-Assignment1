@@ -1,0 +1,12 @@
+.top-left {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+  }
+
+  img{
+    object-fit: cover;
+}
+div{
+    width: 80%;
+}
